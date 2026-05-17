@@ -1,0 +1,27 @@
+--- Preprocessed Sample Messages ---
+happy service
+absolutely terrible want refund
+agent polite helpful
+need know account balance
+internet one helping
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 204ms/step
+
+--- Sample Predictions ---
+Original: I am very happy with the service!
+Predicted Sentiment: negative (Confidence: 1.00)
+
+
+Original: This is absolutely terrible, I want a refund.
+Predicted Sentiment: negative (Confidence: 1.00)
+
+
+Original: The agent was polite and helpful.
+Predicted Sentiment: negative (Confidence: 1.00)
+
+
+Original: I need to know my account balance.
+Predicted Sentiment: neutral (Confidence: 1.00)
+
+
+Original: My internet is down and no one is helping me.
+Predicted Sentiment: negative (Confidence: 1.00)
